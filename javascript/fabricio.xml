@@ -1,0 +1,8 @@
+<clientes>
+	<cliente id="1">
+		<nome>Fabricio</nome>
+		<sobrenome>Longuim</sobrenome>
+		<dataNascimento>26/09/1983</dataNascimento>
+		<dataAtual>19/02/2023</dataAtual>
+	</cliente>
+</clientes>
